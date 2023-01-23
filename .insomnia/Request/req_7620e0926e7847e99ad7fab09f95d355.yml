@@ -1,0 +1,21 @@
+_id: req_7620e0926e7847e99ad7fab09f95d355
+type: Request
+parentId: fld_563b76c737e24f0d8ef84b15190bac5a
+modified: 1673507727719
+created: 1673507686216
+url: https://localhost:7001/api/ProductPrice
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1673507686216
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

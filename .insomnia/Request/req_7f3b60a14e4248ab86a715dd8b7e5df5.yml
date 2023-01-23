@@ -1,0 +1,21 @@
+_id: req_7f3b60a14e4248ab86a715dd8b7e5df5
+type: Request
+parentId: fld_98d829974a2a44cf8819523f23f5be3c
+modified: 1673421902098
+created: 1668506372306
+url: https://localhost:5001/api/products/
+name: Gell all product
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668506372306
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

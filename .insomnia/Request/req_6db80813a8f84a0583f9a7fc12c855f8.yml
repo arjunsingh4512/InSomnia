@@ -1,0 +1,30 @@
+_id: req_6db80813a8f84a0583f9a7fc12c855f8
+type: Request
+parentId: fld_b5928d0ca69144eebee9d38640309d28
+modified: 1669214561111
+created: 1669214280506
+url: http://localhost:5129/api/v1/commands
+name: Create Commands
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"howTo": "Update Migration",
+    	"platform": ".Net",
+    	"commandLine": "dotnet ef  database update"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668946771576.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,28 @@
+_id: req_2db25abc0a05423890a2ad770ac6b798
+type: Request
+parentId: fld_bd9350a842724f738fd5434ce32a7c6e
+modified: 1673782261606
+created: 1673708465506
+url: http://localhost:3000/api/courses/1
+name: Get   Course ByID
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-2
+     {
+    	 
+     }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673559087225.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

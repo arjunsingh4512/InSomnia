@@ -1,0 +1,29 @@
+_id: req_20f084e4e2ad498ba280449d6df61033
+type: Request
+parentId: fld_98d829974a2a44cf8819523f23f5be3c
+modified: 1673514981485
+created: 1673421987590
+url: https://localhost:5001/api/products
+name: Add Product
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	 
+    	"name": "Mustered Oil"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673421987590
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

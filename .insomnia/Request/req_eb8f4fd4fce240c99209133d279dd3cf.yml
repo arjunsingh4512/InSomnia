@@ -1,0 +1,28 @@
+_id: req_eb8f4fd4fce240c99209133d279dd3cf
+type: Request
+parentId: fld_c0364173eb594b0ea04f9e01abab4eae
+modified: 1670048710838
+created: 1669232971834
+url: http://localhost:5191/api/Platform/
+name: Get All Platfroms
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"SQL "
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669182748369
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

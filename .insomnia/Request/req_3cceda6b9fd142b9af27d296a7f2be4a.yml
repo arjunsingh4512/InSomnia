@@ -1,0 +1,28 @@
+_id: req_3cceda6b9fd142b9af27d296a7f2be4a
+type: Request
+parentId: fld_bd9350a842724f738fd5434ce32a7c6e
+modified: 1673709397068
+created: 1673707506988
+url: http://localhost:3000/api/courses/2
+name: Update Course
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	 
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673707506988
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

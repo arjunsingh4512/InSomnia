@@ -1,0 +1,31 @@
+_id: req_5fd664bb154b45a0ab558d4ab3c5a750
+type: Request
+parentId: fld_80897dcb643c499eadf08da4b5ab9f02
+modified: 1674120211994
+created: 1668680417409
+url: http://acme.com/api/Platfroms/
+name: Create Platfrom
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	 
+    	"name": "Dcoker ",
+    	"publisher": "Dcoker Community",
+    	"cost": "free"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668424455623
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

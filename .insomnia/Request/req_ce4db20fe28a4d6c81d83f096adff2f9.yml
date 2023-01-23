@@ -1,0 +1,21 @@
+_id: req_ce4db20fe28a4d6c81d83f096adff2f9
+type: Request
+parentId: fld_16c2634773bd41fbaa6223f6d43332b9
+modified: 1673508049464
+created: 1673508043353
+url: https://localhost:6001/api/ProductDetails
+name: New Request
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1673508043353
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

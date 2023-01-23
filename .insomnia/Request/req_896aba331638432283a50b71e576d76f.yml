@@ -1,0 +1,21 @@
+_id: req_896aba331638432283a50b71e576d76f
+type: Request
+parentId: fld_80897dcb643c499eadf08da4b5ab9f02
+modified: 1668680532316
+created: 1668680417405
+url: http://acme.com/api/Platfroms/4
+name: Get Platfroms by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668423806432
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

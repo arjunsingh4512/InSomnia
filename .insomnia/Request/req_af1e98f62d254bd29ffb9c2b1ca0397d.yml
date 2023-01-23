@@ -1,0 +1,28 @@
+_id: req_af1e98f62d254bd29ffb9c2b1ca0397d
+type: Request
+parentId: fld_bd9350a842724f738fd5434ce32a7c6e
+modified: 1673708443626
+created: 1673708338374
+url: http://localhost:3000/api/courses/
+name: Get All Courses
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-2
+     {
+    	 
+     }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673602075657.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

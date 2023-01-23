@@ -1,0 +1,21 @@
+_id: req_ef1260b66ab04de380b44ea12fc75492
+type: Request
+parentId: fld_c0364173eb594b0ea04f9e01abab4eae
+modified: 1669234247046
+created: 1669229411456
+url: http://localhost:5191/api/Platform/Platform%3Afad9bce3-d795-403a-937b-2459faa55629
+name: Get  Platfrom By Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669136237115
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

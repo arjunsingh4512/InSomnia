@@ -1,0 +1,21 @@
+_id: req_8936931347014f4db4729ecab956c5fb
+type: Request
+parentId: fld_b5928d0ca69144eebee9d38640309d28
+modified: 1669216664833
+created: 1669216625839
+url: http://localhost:5129/api/v1/commands/1
+name: Delete a Commands
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668874439303.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

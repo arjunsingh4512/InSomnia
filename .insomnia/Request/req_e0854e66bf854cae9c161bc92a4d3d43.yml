@@ -1,0 +1,31 @@
+_id: req_e0854e66bf854cae9c161bc92a4d3d43
+type: Request
+parentId: fld_adf2dcee4fef405790aba67d31fcb78c
+modified: 1668680382021
+created: 1668680338870
+url: http://localhost:30008/api/Platfroms/
+name: Create Platfrom
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	 
+    	"name": "Kubernetes Node Port service",
+    	"publisher": "Google",
+    	"cost": "free"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668424455623
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

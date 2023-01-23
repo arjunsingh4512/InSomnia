@@ -1,0 +1,28 @@
+_id: req_8935fec954af484ba73649c1d63e74da
+type: Request
+parentId: fld_4115ce0512e7447ca43a8fb8d56a07a2
+modified: 1674461350400
+created: 1674455779193
+url: http://localhost:3000/api/genres/
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	 "name":"Action and advanture"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1674455779193
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

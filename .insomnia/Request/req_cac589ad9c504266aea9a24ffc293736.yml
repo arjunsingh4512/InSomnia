@@ -1,0 +1,28 @@
+_id: req_cac589ad9c504266aea9a24ffc293736
+type: Request
+parentId: fld_e8db2c24642b46d290a4f9b844acbd7c
+modified: 1673515939141
+created: 1673443578345
+url: http://localhost:6060/api/products
+name: Add new Product
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Hard-Disk"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673426052136.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

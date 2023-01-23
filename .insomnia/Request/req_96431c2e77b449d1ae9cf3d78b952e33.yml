@@ -1,0 +1,28 @@
+_id: req_96431c2e77b449d1ae9cf3d78b952e33
+type: Request
+parentId: fld_4115ce0512e7447ca43a8fb8d56a07a2
+modified: 1674459402155
+created: 1674454777480
+url: http://localhost:3000/api/genres
+name: "Create "
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"horrer movies"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1674454777480
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

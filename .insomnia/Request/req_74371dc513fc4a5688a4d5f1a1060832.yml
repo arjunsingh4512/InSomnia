@@ -1,0 +1,30 @@
+_id: req_74371dc513fc4a5688a4d5f1a1060832
+type: Request
+parentId: fld_55146562704441b48f8f6f4a5a7f2762
+modified: 1674116374014
+created: 1673932854352
+url: " https://localhost:6001/api/c/Platfroms/4/commands"
+name: " Create CommandForPlatfrom"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"HowTo":"How to build a docker image",
+    	"CommandLine":"docker build -t <image_name> ."
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673747344301.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

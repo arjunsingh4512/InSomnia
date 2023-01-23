@@ -1,0 +1,21 @@
+_id: req_0c8f27b588524650ad354b4b85e4281b
+type: Request
+parentId: fld_4115ce0512e7447ca43a8fb8d56a07a2
+modified: 1674461311013
+created: 1674451833792
+url: http://localhost:3000/api/genres/
+name: Get All Genres
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674451833792
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

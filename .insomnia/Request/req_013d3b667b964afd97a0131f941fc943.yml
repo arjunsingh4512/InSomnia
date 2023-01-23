@@ -1,0 +1,28 @@
+_id: req_013d3b667b964afd97a0131f941fc943
+type: Request
+parentId: fld_c0364173eb594b0ea04f9e01abab4eae
+modified: 1669234269224
+created: 1669229259623
+url: http://localhost:5191/api/Platform/
+name: Create Platfrom
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"Kubernetes "
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669229259623
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_8a9bd973a8a34872ab55ff81a93a65be
+type: Request
+parentId: fld_bd9350a842724f738fd5434ce32a7c6e
+modified: 1673712437863
+created: 1673688052521
+url: http://localhost:3000/api/courses/
+name: Create a new Course
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_a98fca0311874f698c1167024ad4bc23
+      name: name
+      value: dotnet 6 full courese
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1673688052521
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

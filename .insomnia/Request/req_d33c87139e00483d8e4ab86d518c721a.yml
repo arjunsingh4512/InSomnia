@@ -1,0 +1,29 @@
+_id: req_d33c87139e00483d8e4ab86d518c721a
+type: Request
+parentId: fld_2aa70249d0074f3e8f91c0eb1f330df9
+modified: 1673494518462
+created: 1668509972771
+url: "http://localhost:31306/api/Products "
+name: Create Product
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	 
+    	"name": "Hot Infinx"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668509972771
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

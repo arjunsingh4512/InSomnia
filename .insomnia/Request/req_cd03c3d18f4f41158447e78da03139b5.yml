@@ -1,0 +1,21 @@
+_id: req_cd03c3d18f4f41158447e78da03139b5
+type: Request
+parentId: fld_b5928d0ca69144eebee9d38640309d28
+modified: 1669212993812
+created: 1669043214607
+url: http://localhost:5129/api/v1/commands/
+name: Get All Commands
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669043214607
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

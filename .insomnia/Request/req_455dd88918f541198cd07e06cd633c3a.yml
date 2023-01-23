@@ -1,0 +1,28 @@
+_id: req_455dd88918f541198cd07e06cd633c3a
+type: Request
+parentId: fld_bd9350a842724f738fd5434ce32a7c6e
+modified: 1673709324497
+created: 1673709295157
+url: http://localhost:3000/api/courses/1123
+name: "Delete a Course "
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-2
+     {
+    	 
+     }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673537593009.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

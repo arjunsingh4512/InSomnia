@@ -1,0 +1,25 @@
+_id: req_f69c3caef16741f8af2a770538f56d0d
+type: Request
+parentId: fld_563b76c737e24f0d8ef84b15190bac5a
+modified: 1673507741596
+created: 1673507174278
+url: https://localhost:7001/api/ProductPrice
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: " "
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673507174278
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

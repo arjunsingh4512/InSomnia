@@ -1,0 +1,21 @@
+_id: req_f14a18f9b9164b8783e713103215da8e
+type: Request
+parentId: fld_55146562704441b48f8f6f4a5a7f2762
+modified: 1674116397323
+created: 1673868395623
+url: " https://localhost:6001/api/c/Platfroms/4/commands"
+name: " Get All Command for Platfrom"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1673787181615.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

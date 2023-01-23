@@ -1,0 +1,21 @@
+_id: req_2c6e36ac85cb4103b0b1c0b64cb40c9f
+type: Request
+parentId: fld_a56014e17bb646cc8079bc011e8ab8cd
+modified: 1668585290647
+created: 1668423806432
+url: http://localhost:5000/api/Platfroms/1
+name: Get Platfroms by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668423806432
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

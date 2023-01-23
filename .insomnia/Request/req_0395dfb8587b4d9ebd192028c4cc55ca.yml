@@ -1,0 +1,31 @@
+_id: req_0395dfb8587b4d9ebd192028c4cc55ca
+type: Request
+parentId: fld_a56014e17bb646cc8079bc011e8ab8cd
+modified: 1673266218974
+created: 1668424455623
+url: http://localhost:5000/api/Platfroms/
+name: Create Platfrom
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	 
+    	"name": " Multiple Docker",
+    	"publisher": "Docker",
+    	"cost": "free"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668424455623
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

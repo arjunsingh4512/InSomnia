@@ -1,9 +1,9 @@
 _id: req_7cc9ed84f5b846df82d56492e64fa458
 type: Request
 parentId: fld_4115ce0512e7447ca43a8fb8d56a07a2
-modified: 1674461363866
+modified: 1674471608178
 created: 1674461341055
-url: http://localhost:3000/api/genres/63ce32466c1833c32609352f
+url: http://localhost:3000/api/genres/63ce688438a13ff759ef59b4
 name: New Request
 description: ""
 method: DELETE

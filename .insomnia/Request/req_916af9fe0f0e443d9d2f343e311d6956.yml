@@ -1,17 +1,17 @@
-_id: req_e5817dbb82ae4c4fa15a0b1f7e9f0aad
+_id: req_916af9fe0f0e443d9d2f343e311d6956
 type: Request
-parentId: fld_4115ce0512e7447ca43a8fb8d56a07a2
-modified: 1674471601534
-created: 1674460056720
-url: http://localhost:3000/api/genres/63ce688438a13ff759ef59b4
-name: Get Genre ById
+parentId: fld_b4806e60b0984c168b9bc50e1430063c
+modified: 1674534932208
+created: 1674534771340
+url: http://localhost:3000/api/movies/
+name: Get All
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1674460056720
+metaSortKey: -1674534771340
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,26 +1,28 @@
-_id: req_aadffa44c5f543c8b2196324aa8f4755
+_id: req_9243df67ad4944568274665b37577590
 type: Request
-parentId: fld_cfe469e8f1d94873be0ea2eb5ea5933d
-modified: 1674471451649
-created: 1674465473486
-url: http://localhost:3000/api/coustomers/
-name: " Add Customer"
+parentId: fld_b4806e60b0984c168b9bc50e1430063c
+modified: 1674535418953
+created: 1674534775258
+url: http://localhost:3000/api/movies/
+name: Create
 description: ""
 method: POST
 body:
   mimeType: application/json
   text: |-
     {
-    	"name":"Kirpto kumar",
-    	"phone":"6657842343"
-    	 
+    	"title":"Sanam teri kasam",
+    	"genresId":"63ce31e06c1833c32609352c",
+    	"numberInStock":2,
+    	"dailyRentalRate":3
+    	
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
 authentication: {}
-metaSortKey: -1674465473486
+metaSortKey: -1674534775258
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

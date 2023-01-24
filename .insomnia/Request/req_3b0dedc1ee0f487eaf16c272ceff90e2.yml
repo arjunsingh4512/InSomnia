@@ -1,9 +1,9 @@
-_id: req_8935fec954af484ba73649c1d63e74da
+_id: req_3b0dedc1ee0f487eaf16c272ceff90e2
 type: Request
-parentId: fld_4115ce0512e7447ca43a8fb8d56a07a2
-modified: 1674471580067
-created: 1674455779193
-url: http://localhost:3000/api/genres/63ce688438a13ff759ef59b4
+parentId: fld_b4806e60b0984c168b9bc50e1430063c
+modified: 1674535753316
+created: 1674534764004
+url: http://localhost:3000/api/movies/63cf61fe081d7c6bab4c1cf5
 name: Update
 description: ""
 method: PUT
@@ -11,14 +11,18 @@ body:
   mimeType: application/json
   text: |-
     {
-    	 "name":"Action and advanture"
+    	"title":"Dil Mane Na",
+    	"genresId":"63ce37a537c55f13ea022b43",
+    	"numberInStock":2,
+    	"dailyRentalRate":3
+    	
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
 authentication: {}
-metaSortKey: -1674455779193
+metaSortKey: -1674534764004
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

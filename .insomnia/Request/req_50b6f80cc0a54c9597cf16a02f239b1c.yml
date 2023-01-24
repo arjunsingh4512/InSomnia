@@ -1,9 +1,9 @@
 _id: req_50b6f80cc0a54c9597cf16a02f239b1c
 type: Request
 parentId: fld_cfe469e8f1d94873be0ea2eb5ea5933d
-modified: 1674464680324
+modified: 1674468983434
 created: 1674464636274
-url: http://localhost:3000/api/customers/
+url: http://localhost:3000/api/coustomers/
 name: Get All Customer
 description: ""
 method: GET

@@ -1,17 +1,17 @@
-_id: req_e5817dbb82ae4c4fa15a0b1f7e9f0aad
+_id: req_9da0323f1d0d4bddaf44f887fe77fd13
 type: Request
-parentId: fld_4115ce0512e7447ca43a8fb8d56a07a2
-modified: 1674471601534
-created: 1674460056720
-url: http://localhost:3000/api/genres/63ce688438a13ff759ef59b4
-name: Get Genre ById
+parentId: fld_cfe469e8f1d94873be0ea2eb5ea5933d
+modified: 1674471520712
+created: 1674469836375
+url: http://localhost:3000/api/coustomers/63ce681d38a13ff759ef59ab
+name: "Delete "
 description: ""
-method: GET
+method: DELETE
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1674460056720
+metaSortKey: -1674469836375
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
